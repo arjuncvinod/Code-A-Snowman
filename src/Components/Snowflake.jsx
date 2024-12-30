@@ -1,4 +1,4 @@
-import "./Snowflake.css";
+import "./SnowFlake.css";
 
 const Snowflake = () => {
   return (
