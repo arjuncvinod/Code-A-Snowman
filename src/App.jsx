@@ -1,5 +1,5 @@
 import "./App.css";
-import WinterScene from "./Components/WinterScene";
+import WinterScene from "./Components/WinterScene/WinterScene";
 
 function App() {
   return (

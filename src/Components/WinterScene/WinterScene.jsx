@@ -1,9 +1,9 @@
-import Snowman from "./Snowman";
-import ChristmasTree from "./ChristmasTree";
-import Snowflake from "./Snowflake";
-import Footer from "./Footer";
-import Ground from "./Ground";
-import Sky from "./Sky";
+import Snowman from "../Snowman/Snowman";
+import ChristmasTree from "../ChristmasTree/ChristmasTree";
+import Snowflake from "../SnowFlake/Snowflake";
+import Footer from "../Footer/Footer";
+import Ground from "../Ground/Ground";
+import Sky from "../Sky/Sky";
 import "./WinterScene.css";
 
 const WinterScene = () => (
